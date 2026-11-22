@@ -562,3 +562,5 @@ See LICENSE file for details.
 This repository is maintained by **Tapan Jayydeo Wankhade** ([@Tapanwankhade](https://github.com/Tapanwankhade)), B.Tech CSE, Vellore Institute of Technology (2026), Bangalore, India.
 
 The project was originally created by **Abhishek ([@Abhishek371222](https://github.com/Abhishek371222))** — see the [original repository](https://github.com/Abhishek371222/Sentiment-Analysis). Original authorship and the MIT license terms are retained.
+
+**Contact (maintainer):** Tapan Jayydeo Wankhade · 📧 [tapanjw@gmail.com](mailto:tapanjw@gmail.com) · 📞 +91 9022255903
